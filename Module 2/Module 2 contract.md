@@ -17,12 +17,6 @@ As students in this class, we agree to fulfill and present the results of a sele
 
 - (O) **Research, example, purpose/challenge, software support for the main IoT protocols.** Cover at least MQTT and CoAP, but also look at, HTTP Web Request, OSC, BLE or others.
 
-- (O) **Compile information on the ESP ecosystem.** Basic Microcontrollers (ESP8266 and ESP32).
-  - Google around and/or use your friendly AI.
-  - ESP8266 video. [ESP8266 Video Link](https://youtu.be/wOEDaFRlhLo?si=ERGEnZ5NZ37XvrRa)
-  - Wemos D1 Mini video. [Wemos D1 Mini Video Link](https://youtu.be/5WXPYWj-_a4?si=aN1WIzTkJIIBUl5E)
-  - Why is this the “democratization of hardware”?
-
 - (M) **Basic electronics prototyping (breadboard, jumper cables)** <- video [Video Link](https://youtu.be/yXirMBP3x4U?si=YiR1OVodxhQ-EjHL)
   - ”Hello breadboard” (leds and button - get power from Wemos D1 Mini plugged into usb power adapter from kit)
   - Create a RGB LED color mixer.
