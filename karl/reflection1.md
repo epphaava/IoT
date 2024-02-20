@@ -1,0 +1,2 @@
+The first session was a bit of a mess. I did not fully understand what was expected of me; what repos each person had to make, where our mutual work would go etc. 
+I was surprised to learn that Bosch is such a large player in the IoT field. I'm now also interested in the possible environmental uses of IoT.
