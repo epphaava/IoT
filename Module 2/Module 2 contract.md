@@ -26,7 +26,6 @@ As students in this class, we agree to fulfill and present the results of a sele
   - Blink video. [Blink Video Link](https://youtu.be/2nN_ZVyWLzg?si=EkluhBUelc4Rdhbg)
   - Variation(s) of blink with button.
   - Toggle Led with local button.
-  - Meet the M5.
   - Take pictures and very brief notes for proof and documentation purpose.
 
 **Signature:** Confirm orally in lab with an instructor that you understand the content of this contract and are willing to put in the work for doing and presenting it. By uploading this markdown version to your repository you commit to the selections made in here.
