@@ -53,4 +53,4 @@ Google sheet: https://docs.google.com/spreadsheets/d/1mrhyfECA6saCIZJXvdgQOEQV6q
   * Started the blink task thinking we needed to use eso32, wasted way too much time on that
   * Toggle Led with local button:
 
-  ![img](./images/toggle_led.jpg)
+<img src='./images/toggle_led.jpg' width='300'>
