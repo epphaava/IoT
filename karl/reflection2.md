@@ -1,0 +1,2 @@
+- The lecture was quite dense, goin into the specifics and different types of both IoT architecture and buses. It definitely did not help that I was quite late to the lecture.
+- I enjoyed the lab. For the fourth or so time in my life, I had to make a button make an LED light up on a breadboard. It was not at all easier than the previous times. I feel like I have to learn the basics of electrical circuits each time I touch a breadboard. Thankfully we got the RGB LED to work very fast.
