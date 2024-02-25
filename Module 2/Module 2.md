@@ -1,6 +1,6 @@
 Google sheet: https://docs.google.com/spreadsheets/d/1mrhyfECA6saCIZJXvdgQOEQV6qnPdjrQCfG82YFpArw/edit#gid=0
 
-# Low level buses (especially check history, length, speed, wiring): simple on/off power, analog and one digital pin measuring, RS232, RS 485, I2C, SPI, Onewire.
+# Low level buses
 ## Simple on/off power
  * in early electronic systems for basic power distribution, evolved to support various applications over time
  *  for short-distance power distribution within confined spaces
@@ -48,6 +48,27 @@ Google sheet: https://docs.google.com/spreadsheets/d/1mrhyfECA6saCIZJXvdgQOEQV6q
 * supports varying data rates
   * common speeds ranging from 100 kbps (standard mode) to 3.4 Mbps (high-speed mode)
 * two-wire bus: Serial Data (SDA) and Serial Clock (SCL)
+## SPI (Serial Peripheral Interface)
+* developed to facilitate communication between microcontrollers and peripheral devices
+* primarily for short-distance communication within a single electronic device
+  *  typically for on-board communication between devices
+*  high-speed data transfer
+  *  from a few hundred kbps to multiple Mbps (depending on devices)
+*  four-wire bus
+  *  Master Out Slave In (MOSI)
+  *  Master In Slave Out (MISO)
+  *  Serial Clock (SCK)
+  *  Slave Select (SS) or Chip Select (CS)
+*  full-duplex communication
+## Onewire
+*  developed by Dallas Semiconductor (now Maxim Integrated) in the 1990s
+*  engineered for simplicity and the minimization of wiring in low-speed, short-distance communication
+*  primarily for short-distance communication within small-scale electronic systems
+*  efficient in reducing the number of wires required
+*  low speed, typically from 15 bps to 100 kbps
+*  single wire for communication
+  *  plus ground in some cases
+*  devices uniquely addressed, allowing multiple devices to share the same communication line
 
 # Getting to know Arduino IDE and the ESP8266 or ESP32.
   * Started the blink task thinking we needed to use eso32, wasted way too much time on that
