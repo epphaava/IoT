@@ -74,4 +74,59 @@ Google sheet: https://docs.google.com/spreadsheets/d/1mrhyfECA6saCIZJXvdgQOEQV6q
   * Started the blink task thinking we needed to use eso32, wasted way too much time on that
   * Toggle Led with local button:
 
-<img src='./images/toggle_led.jpg' width='300'>
+# Main IoT protocols
+## MQTT
+  * First version of the protocol authored in 1999
+  * Now maintained by the OASIS consortium
+    * Was then used to monitor oil pipelines 
+  * Goal was to have a cheap, lightweight and efficient alternativve to satellite communication
+  * Publish-andsubscribe messaging pattern
+  * Two types of network entities:
+    * Broker
+      * Receives messages from clients and routes them to the appropriate destination clients
+      * It is possible to have multiple brokers, each with their own subscribed clients
+    * Client
+      * Can only interact with other clients through a broker
+## CoAP
+  * Constrained Application Protocol
+  * Used for communication between "constrained devices" and the Internet
+    * A constrained device is a device with a sensor or aqctuator meant to handle a specific task
+  * Designed for communication between:
+    * Devices on the same constrained network (low-power, lossy network)
+    * Devices and the wider Internet
+    * Devices on different constrained networks joined through the Internet
+  * Designed to translate easily into HTTP
+  * Designed for simplicity and low overhead
+## HTTP
+  * Hypertext Transfer Protocol
+  * Request-response protocol between a client (web browser) and a server
+  * Current standards are HTTP/1.1, HTTP/2 and HTTP/3
+  * The foundation of communication on the World Wide Web
+  * HTTP messages have a header, declaring the type of message, the protocol used and a status code
+    * The first number in a status code has a sspecific meaning:
+      * 1xx - Informational
+      * 2xx - Success
+      * 3xx - Redirection
+      * 4xx - Client error
+      * 5xx - Server error
+
+# Playing with LEDs
+## Toggle
+* ON
+<img src='./images/toggle_on.jpg' width='300'>
+
+* Off
+<img src='./images/toggle_off.jpg' width='300'>
+
+## RGB LED color switch
+* Green
+<img src='./images/RGB_green.' width='300'>
+
+* Yellow
+<img src='./images/RGB_yellow.jpg' width='300'>
+
+* Cyan
+<img src='./images/RGB_cyan.jpg' width='300'>
+
+* White
+<img src='./images/RGB_white.jpg' width='300'>
