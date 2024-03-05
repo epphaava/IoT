@@ -13,9 +13,9 @@ As students in this class, we agree to fulfill and present the results of a sele
 - (O) Button to LED directly on the microcontroller. (Resistance, PULLUP/PULLDOWN, V.Divider later).
   - Read more about PULLUP/PULLDOWN resistors.
   - What is the option INPUT_PULLUP?
-  - Computer (browser or phone) to Microcontroller via Webrequest.
+- Computer (browser or phone) to Microcontroller via Webrequest.
   - Install webhook, flask, or express and generate memes and/or jokes on request with bro201~wser and curl or httpie. Use at least two different forms of requests (get/put).
-  - Computer (browser or phone) to microcontroller onboard LED via Web request.
+  - (M) Computer (browser or phone) to microcontroller onboard LED via Web request.
   - WiFi and HTTP on the microcontroller consume the web endpoint of another microcontroller. The button turns on the onboard LED on the other.
   - Button to Webhook (output locally on stdout).
   - Button to Webhook, Webhook to curl to Led. (Integration step).
