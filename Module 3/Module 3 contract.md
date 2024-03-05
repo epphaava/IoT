@@ -14,8 +14,8 @@ As students in this class, we agree to fulfill and present the results of a sele
   - Read more about PULLUP/PULLDOWN resistors.
   - What is the option INPUT_PULLUP?
 - Computer (browser or phone) to Microcontroller via Webrequest.
-  - (O) Install webhook, flask, or express and generate memes and/or jokes on request with bro201~wser and curl or httpie. Use at least two different forms of requests (get/put).
   - (M) Computer (browser or phone) to microcontroller onboard LED via Web request.
+  - Button to Webhook, Webhook to curl to Led. (Integration step).
 
 
 - (M) SSH key exchange so that every team member can log in without a password.
