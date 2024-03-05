@@ -15,6 +15,13 @@
     - Some experience with JavaScript, HTTP
   - Very cool
 
+- **Priidik Meelo Västrik**
+  - Familiar with:
+    - Web Development (Python, Java, JS, TS, K8S)
+    - Robotics (Raspberry Pi, Python)
+  - Interested in 3D printing, but no experience
+  - Very cool
+
 # TIA Video
 ## Domains
 - Manufacturing (predictive maintenance)
@@ -69,6 +76,11 @@
 ### Benefit
 - Improved efficiency
 - Easier life for people with limited movement or abilities
+
+## Priidik
+### Domains
+- Home automation (little things like coffee machine synced with alarm clock etc.)
+
 
 # Story
 **Personalized Automatic Thermostat**
