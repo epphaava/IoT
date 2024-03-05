@@ -1,3 +1,7 @@
+## Module 3 Contract
+
+**Student's Name(s):** Epp Haavasalu, Karl Kristofer Haljand, Priidik Meelo Västrik
+
 ## Agreement:
 
 As students in this class, we agree to fulfill and present the results of a selection of the following tasks (we are picking at least 3 of the optional tasks):
