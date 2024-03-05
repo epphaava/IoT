@@ -120,7 +120,7 @@ Google sheet: https://docs.google.com/spreadsheets/d/1mrhyfECA6saCIZJXvdgQOEQV6q
 
 ## RGB LED color switch
 * Green
-<img src='./images/RGB_green.' width='300'>
+<img src='./images/RGB_green.jpg' width='300'>
 
 * Yellow
 <img src='./images/RGB_yellow.jpg' width='300'>
@@ -130,3 +130,7 @@ Google sheet: https://docs.google.com/spreadsheets/d/1mrhyfECA6saCIZJXvdgQOEQV6q
 
 * White
 <img src='./images/RGB_white.jpg' width='300'>
+
+## We also made Blink C++
+<img src='./images/toggle_led.jpg' width='300'>
+The code can be found in folder blink_and_button in file blink_and_button.ino.
