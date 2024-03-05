@@ -19,6 +19,7 @@
   - Familiar with:
     - Web Development (Python, Java, JS, TS, K8S)
     - Robotics (Raspberry Pi, Python)
+    - Linux and Windows systems
   - Interested in 3D printing, but no experience
   - Very cool
 
@@ -80,6 +81,23 @@
 ## Priidik
 ### Domains
 - Home automation (little things like coffee machine synced with alarm clock etc.)
+- Data collection (sensors all over the world to gather data, e.g. air pollution levels)
+- Healthcare (tracking equipment etc.)
+
+### Devices
+- Coffee machines
+- Phones
+- Cars
+
+### Benefit
+- Improved comfort
+- Predictive maintenance in factories
+- Easy to automate stuff
+
+### Challenges
+- No standard that everyone use
+- Regulations might make things more complex
+- Recognizing useful data
 
 
 # Story
