@@ -8,6 +8,7 @@
 #define STAPSK "iotempireKEP"
 // Pin connected to the LED
 #define LED_PIN D6
+
 #endif
 
 const char* ssid = STASSID;
@@ -98,6 +99,12 @@ void setup(void) {
   server.on("/off", []() {
     digitalWrite(led, 1);
     server.send(200, "text/plain", "led off\r\n");
+  });
+
+  server.on("/toggle", []() {
+    ledState = !ledState;
+    digitalWrite(led, ledState);
+    server.send(200, "text/plain", "led toggled\r\n");
   });
 
   server.onNotFound(handleNotFound);
