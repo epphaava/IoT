@@ -1,6 +1,6 @@
 Module 2 Contract 1
 
-**Student's Name(s):** Epp Haavasalu, Karl Kristofer Haljand
+**Student's Name(s):** Epp Haavasalu, Karl Kristofer Haljand, Priidik Meelo Västrik
 
 **Agreement:**
 
