@@ -1,8 +1,8 @@
 Team network infrastructure
   * We set the old laptop up as a gateway. The network SSID is iotempire-KEP.
 
-Button to LED directly on microcontroller
-  * Code in folder LED_Button
+Button to LED directly on microcontroller. PULLUP/PULLDOWN resistors.
+  * Code in folder LED_Button. Pull-up and pull-down resistors offer the same functionality and which one is used mostly doesn't matter. The difference lies in whether the voltage at the output (e.g. LED) is high or low while the circuit is not complete.
 
 Computer to Microcontroller via Webrequest.
  * Computer to microcontroller onboard LED via Web request: code in folder LED_Server/LED_Server
