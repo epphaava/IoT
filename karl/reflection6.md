@@ -1,0 +1,5 @@
+- For a large part of the lecture, Priidik was not with us.
+- For a large part of the practical, Epp was not with us.
+- But me and Priidik got a lot done out of the things outlined in our contract.
+- NodeRed seems like it could be useful? I'm still not sure of its purpose. If you have to write code on each of the devices anyway, why not handle the connections there as well.
+- I might not know what a gyroscope is or what its output is supposed to be. Same with an accelerometer. What's inside these things and how do they measure the things they measure??
